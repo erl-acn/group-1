@@ -4,3 +4,4 @@ Ma. Leah Oquindo - Java
 Sandra Aquino - Testing
 Jherome Dorado - Server OS
 Kim Zyrene Domino - QA
+Marc Angelo Macario - Server OS
