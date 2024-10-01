@@ -1,3 +1,4 @@
 Erl Jonn Co - JAVA 
 Ma. Beverly Somodio - Testing
 Sandra Aquino - Testing
+Jherome Dorado - Server OS
