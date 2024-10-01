@@ -2,4 +2,9 @@ Erl Jonn Co - JAVA
 Michaella Sangalang - Java
 Ma. Beverly Somodio - Testing
 Sandra Aquino - Testing
+<<<<<<< HEAD
 
+=======
+Jherome Dorado - Server OS
+Kim Zyrene Domino - QA
+>>>>>>> b9d0c73813dd8f66a62afc4cb1ff091dcff6c3f7
